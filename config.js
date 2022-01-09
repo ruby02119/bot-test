@@ -1,5 +1,5 @@
 let fs = require('fs')
-global.owner = ['628112958665', '6288215569001','628998512588', '6283175998566', '6285693602003', '6283153189868'] // Letakan nomor kamu disini
+global.owner = ['628112958665', '6288215569001','628998512588', '6283175998566', '6285882318915'] // Letakan nomor kamu disini
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -25,7 +25,7 @@ global.APIKeys = { // APIKey nya disini
   'https://api.xteam.xyz': 'HIRO',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.xyz': 'FVe0JFCdME58YSKmhoDWdRtyuJt',
-  'https://api.lolhuman.xyz': '929b48b9aa5a91abed8526cd',
+  'https://api.lolhuman.xyz': '2b73d1f8ece8ee6382571cda',
   'https://api.vhtear.com': 'sayahafiz',
   'https://fxc7-api.herokuapp.com': 'uN8rsK4g',
   'https://api.justaqul.xyz': '5kbUqdG00OXelFYx',
